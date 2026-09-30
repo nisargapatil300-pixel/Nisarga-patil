@@ -1,7 +1,8 @@
 # 💫 About Me:
 Turning curiosity into code, and ideas into reality. 🚀
 
-#Sources
+🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarga-patil-095bb5371)
 
 # 💻 Tech Stack:
