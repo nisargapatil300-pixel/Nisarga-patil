@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a engineering student<br>
+Turning curiosity into code, and ideas into reality. 🚀
 
 
 # 💻 Tech Stack:
